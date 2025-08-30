@@ -23,7 +23,8 @@ project-folder/
 ---
 
 ## 🖥️ Demo Preview
-<img width="1910" height="932" alt="Screenshot 2025-08-30 115709" src="https://github.com/user-attachments/assets/72fc1e8c-3af2-4eef-ae7f-19a484a06470" />
+<img width="1918" height="929" alt="Screenshot 2025-08-30 120749" src="https://github.com/user-attachments/assets/7c03cfdf-e533-4900-8df8-99fb07fd69ae" />
+
 
 
 ---
