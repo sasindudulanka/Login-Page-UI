@@ -1,4 +1,4 @@
-# 🌊 Aqua Login UI
+# 🌊 Login Page UI
 
 A modern and responsive **login page** with an underwater-themed background.  
 This project features a clean and minimal design with smooth UI components, including username & password input fields, "Remember Me" option, and account management links.
